@@ -20,7 +20,7 @@ Ushbu loyihada filmlar ma'lumotlar to'plami (Movies Dataset) Pandas yordamida to
 ![Ovozlar va Reyting Bog'liqligi](images/rasm_result3.png)
 
 ### 4. Yillar davomida filmlarning o'rtacha mashhurlik trendi
-![Mashhurlik Trendi](images/rasm_result4.png)
+![Mashhurlik Trendi](images/rasm_resullt4.png)
 
 ## 🖥️ Power BI Dashboard
 *(Power BI dashboardingiz tayyor bo'lgach, skrinshotini `dashboard/dashboard_view.png` qilib saqlang va quyidagi qatorni faollashtiring)*
